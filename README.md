@@ -2,7 +2,7 @@
 
 Submitted by: **Hieu Quach**
 
-**Wordle** is an app that 
+**Wordle** is an app in which the players are given 6 attempts to guess a five-letter word through the color-coded feedback after each attempt.
 
 Time spent: **8** hours spent in total
 
